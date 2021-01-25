@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate of the Master's in Mathematics in Finance program from NYU Courant, and I have accepted the position of Junior Research Scientist at NYU Stern that starts in summer 2021. 
+I am a recent graduate of the Master's in Mathematics in Finance program from NYU Courant, and I have accepted a Junior Research Scientist position at NYU Stern that starts in summer 2021. 
 
 About My Name
 ------
