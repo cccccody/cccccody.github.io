@@ -5,4 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-MATH-UG-250 [Mathematics of Finance (recitation)](/_pages/mathfin.md)
+MATH-UG-250 [Mathematics of Finance (recitation)](/teaching/math-ua-mathfin)
