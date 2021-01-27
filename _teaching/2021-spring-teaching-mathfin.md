@@ -1,7 +1,7 @@
 ---
-title: "MATH-UA-250 Mathematics in Finance (recitation section)"
+title: "MATH-UA-250 Mathematics in Finance"
 collection: teaching
-type: "Undergraduate course"
+type: "recitation"
 permalink: /teaching/2021-spring-teaching-mathfin
 venue: "NYU Courant"
 date: 2021-01-28
