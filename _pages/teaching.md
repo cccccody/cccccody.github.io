@@ -5,5 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have taught
-------
+MATH-UG-250 [Mathematics of Finance](/_pages/mathfin.md)
