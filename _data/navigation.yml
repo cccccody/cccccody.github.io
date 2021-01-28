@@ -22,6 +22,9 @@ main:
   #   url: /markdown/
   - title: "Research"
     url: /research/
+  
+  - title: "Notes"
+    url: /notes/
 
   - title: "Teaching"
     url: /teaching/
