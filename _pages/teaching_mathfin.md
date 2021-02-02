@@ -6,3 +6,5 @@ author_profile: true
 ---
 
 Mathematics in Finance.
+
+- Jupyter notebooks that cover the basics of [Python, NumPy](/files/Python%20jupyter-notebook-tutorial.ipynb) and [Pandas](/files/intro-to-pandas.ipynb)
