@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate of the Master's in Mathematics in Finance program from NYU Courant, and I am currently a junior research scientist at NYU Stern's Finance department. 
+I am a recent graduate of the Master's in Mathematics in Finance program from NYU Courant, and I am currently a junior research scientist at NYU Stern's Finance department. I have accepted an offer from UCLA Anderson School of Business for a PhD in Finance. Here's my latest [CV](https://www.dropbox.com/s/995oeq10lpo1ook/CV_Nov2022.pdf?dl=0)
 
 About My Name
 ------
